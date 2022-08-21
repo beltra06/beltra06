@@ -1,16 +1,14 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**beltra06/beltra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Beltra Saura Rahmadan**.
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** Jurusan Teknik Informatika di [Universitas Lampung](https://www.unila.ac.id/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya juga seorang **Developer Student** di [Dicoding](https://www.dicoding.com/).
+
+Saat ini saya sudah mendapatkan 3 sertifikat dalam kelas yaitu:  
+- Pengenalan Logika ke Pemrograman [sertifikat_course_302_2380585_030822173355.pdf](https://github.com/beltra06/beltra06/files/9389542/sertifikat_course_302_2380585_030822173355.pdf).
+- Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [sertifikat_course_237_2380585_140822165839.pdf](https://github.com/beltra06/beltra06/files/9389543/sertifikat_course_237_2380585_140822165839.pdf).
+- Git dan GitHub [sertifikat_course_317_2380585_150822190625.pdf](https://github.com/beltra06/beltra06/files/9389544/sertifikat_course_317_2380585_150822190625.pdf).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/beltra-saura-rahmadan-9976b31b9/)ku ya.

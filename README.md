@@ -1,7 +1,5 @@
 # Hi 👋 I'm Beltra.  
-
-I am a highly motivated informatics engineering student with creative, innovative abilities, and looking for new challenges. I like to learn something new in my life, especially about IT and programming languages.  
-
+ 
 👩 I am a student majoring in informatics engineering at [Universitas Lampung](https://www.unila.ac.id/).  
 🌱 I’m currently learning about Front End Web and React at [Dicoding](https://www.dicoding.com/).   
 📫 How to reach me: beltrasauraramadan@gmail.com  
